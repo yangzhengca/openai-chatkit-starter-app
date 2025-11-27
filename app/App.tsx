@@ -20,8 +20,8 @@ export default function App() {
   }, []);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-end bg-slate-100 dark:bg-slate-950">
-      <header className="w-full max-w-5xl mx-auto pt-8 pb-4 text-center">
+    <main className="flex h-screen flex-col items-center justify-end bg-slate-100 dark:bg-slate-950 overflow-hidden">
+      <header className="w-full max-w-5xl mx-auto pt-4 pb-2 text-center">
         <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100">
           BigGeo Marketplace Agent Demo
         </h1>
