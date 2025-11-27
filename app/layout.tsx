@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AgentKit demo",
-  description: "Demo of ChatKit with hosted workflow",
+  title: "BigGeo Marketplace Agent",
+  description: "Demo of BigGeo Marketplace Agent",
 };
 
 export default function RootLayout({
