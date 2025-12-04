@@ -44,7 +44,7 @@ function LoginContent() {
         <div className="bg-white dark:bg-slate-900 rounded-2xl shadow-xl p-8">
           <div className="text-center mb-8">
             <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-2">
-              BigGeo Marketplace
+              BigGeo Marketplace Agent
             </h1>
             <p className="text-slate-600 dark:text-slate-400">
               Sign in to access the AI Agent
@@ -86,7 +86,7 @@ function LoginContent() {
           </button>
 
           <p className="mt-6 text-center text-xs text-slate-500 dark:text-slate-400">
-            Only @biggeo.com email addresses are authorized to access this application.
+            Only @biggeo.com emails are authorized to access this application.
           </p>
         </div>
       </div>
