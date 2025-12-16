@@ -11,11 +11,21 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     prompt: "What can you do?",
     icon: "circle-question",
   },
+  {
+    label: "Build use case from BigGeo listing",
+    prompt: "Build use case and marketing strategy for my BigGeo marketplace listing.",
+    icon: "circle-question",
+  },
+    {
+    label: "Build use case from dataset description",
+    prompt: "Build use case and marketing strategy for my dataset, ask me for required information",
+    icon: "circle-question",
+  },
 ];
 
 export const PLACEHOLDER_INPUT = "Ask anything...";
 
-export const GREETING = "How can I help you today?";
+export const GREETING = "Hi! I'm the BigGeo Marketing Agent. I help you craft compelling use cases and marketing strategies—whether from your BigGeo Marketplace listing or a dataset description you provide. What would you like to work on today?";
 
 export const getThemeConfig = (theme: ColorScheme): ThemeOption => ({
   color: {
