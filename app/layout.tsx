@@ -4,8 +4,8 @@ import "./globals.css";
 import { AuthProvider } from "@/context/AuthContext";
 
 export const metadata: Metadata = {
-  title: "BigGeo Marketplace Agent",
-  description: "Demo of BigGeo Marketplace Agent",
+  title: "BigGeo Marketing Agent",
+  description: "Demo of BigGeo Marketing Agent",
 };
 
 export default function RootLayout({

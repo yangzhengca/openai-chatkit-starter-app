@@ -43,7 +43,7 @@ export default function App() {
       <header className="w-full max-w-5xl mx-auto p-4 flex items-center justify-between px-4">
         <div className="text-center flex-1">
           <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100">
-            BigGeo Marketplace Agent Demo
+            BigGeo Marketing Agent Demo
           </h1>
           {/* <a
             href="https://marketplace.biggeo.com"
